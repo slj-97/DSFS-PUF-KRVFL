@@ -1,4 +1,4 @@
-# DSFS–PUF–KRVFL ablation
+# DSFS–PUF–KRVFL
 
 This folder contains the MATLAB code and prepared input files for the paper's four-model ablation on six time series. It compares KRVFL, DSFS–KRVFL, PUF–KRVFL, and DSFS–PUF–KRVFL.
 
